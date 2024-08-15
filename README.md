@@ -17,6 +17,7 @@ Project Outline
 # Below are the steps that we followed in this Capstone Project:
 
  1. Data Preparation and Cleaning
+    
          1. Import the dataset and necessary libraries.
     
          2. Clean the dataset by handling incorrect data types and missing values.
@@ -24,6 +25,7 @@ Project Outline
          3. Extract relevant features for the analysis.
     
  3. Exploratory Data Analysis
+    
          1. Explore the data
     
          2. Investigate the distribution of movie ratings, overall and in relation to decades.
