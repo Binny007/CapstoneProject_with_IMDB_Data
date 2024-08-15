@@ -18,14 +18,24 @@ Project Outline
 
  1. Data Preparation and Cleaning
          1. Import the dataset and necessary libraries.
+    
          2. Clean the dataset by handling incorrect data types and missing values.
+    
          3. Extract relevant features for the analysis.
- 2. Exploratory Data Analysis
+    
+ 3. Exploratory Data Analysis
          1. Explore the data
+    
          2. Investigate the distribution of movie ratings, overall and in relation to decades.
+    
          3. Analyze the relationships between ratings, critic acclaim, Runtime and box office success using correlation 
             and covariance.
- 3. Estimating Average Ratings
+    
+ 5. Estimating Average Ratings
+
         1. Apply confidence intervals to estimate the average box office for different decades.
- 4. Conclusions
+    
+ 7. Conclusions
+    
         1. Summarize the findings from the analysis
+    
